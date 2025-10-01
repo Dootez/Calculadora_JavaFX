@@ -14,15 +14,10 @@
 
 ## ⚙️ Tecnologías utilizadas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" height="40" alt="javafx logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-mvc-coding-and-development-flat-flat-juicy-fish.png" height="40" alt="mvc logo"/>
-</div>
+- ☕ **Java** – Lenguaje principal del proyecto.  
+- 🎨 **JavaFX** – Framework para la interfaz gráfica.  
+- 🖥️ **IntelliJ IDEA** – Entorno de desarrollo (IDE).  
+- 🧩 **MVC (Modelo - Vista - Controlador)** – Patrón arquitectónico aplicado.
 
 ---
 
